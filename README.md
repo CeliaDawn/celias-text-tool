@@ -1,6 +1,6 @@
 To use:
 
-Type your dialouge! Two newlines in regular dialogue get converted into a page break. Line scrolls are inserted automatically.
+Type your dialogue! Two newlines in regular dialogue get converted into a page break. Line scrolls are inserted automatically.
 
 Clicking Convert will automatically put the output onto your clipboard.
 
